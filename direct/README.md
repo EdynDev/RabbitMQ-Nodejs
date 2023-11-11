@@ -1,0 +1,1 @@
+El archivo `consumidor.js` crea una cola, se vincula a un intercambio directo y consume mensajes de esa cola, mientras que el archivo `productor.js` publica mensajes en el mismo intercambio utilizando una clave de enrutamiento específica. Esto permite que los mensajes se enruten hacia el consumidor adecuado en función de la clave de enrutamiento.

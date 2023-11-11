@@ -1,0 +1,15 @@
+{
+  "name": "rabbitmq-nodejs",
+  "version": "1.0.0",
+  "description": "RabbitMQ es un software intermediario de mensajes de código abierto,que se utiliza para facilitar la comunicación entre diferentes aplicaciones o componentes de software, a menudo en un entorno de sistema distribuido. Fue desarrollado originalmente por Rabbit Technologies Ltd y ahora es mantenido por Pivotal Software, una subsidiaria de VMware.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
